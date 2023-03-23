@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-0761808789
-0761236547
-Roll no added more lines
-0652226427
-Updated 
-=======
 Merge conflict by Thasneem
->>>>>>> Stashed changes
